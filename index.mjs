@@ -174,9 +174,6 @@ app.listen(3000, () => {
     console.log("server is running at http://localhost:3000");
 });
 
-<<<<<<< HEAD
 // 123456123456
-=======
 
 // TTTTTTTTTTTTTTTTTTTTTTTTTTTTEST JZ_dev
->>>>>>> JZ_dev
